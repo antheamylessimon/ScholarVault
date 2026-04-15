@@ -76,5 +76,11 @@
 
 ---
 
+## 📄 ScholarVault System Google Link
+
+https://drive.google.com/drive/folders/1eS6Vw1l6a_8XseAVrx_HM_E9lyjCce0z?usp=sharing
+
+---
+
 > [!TIP]
 > **Pro Tip**: Use the theme toggle in the sidebar to switch between Dark and Light mode for the best viewing experience!
