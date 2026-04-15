@@ -1,4 +1,4 @@
-# ScholarVault 📚
+# ScholarVault 
 ### RDIE Repository System
 
 **ScholarVault** is a modern, high-performance repository system designed for Research, Development, Innovation, and Extension (RDIE) management. Built with a focus on visual excellence and user experience, it streamlines the lifecycle of scholarly works from submission to final approval.
